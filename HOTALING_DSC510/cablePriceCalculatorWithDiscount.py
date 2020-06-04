@@ -1,5 +1,5 @@
-# Programming Assignment 2.1 
-# Michael Hotlaing
+# Programming Assignment 3.1
+# Michael Hotaling
 # This programm will:  
 #	1) Welcome the user
 #	2) Retrieve the company name from the user
