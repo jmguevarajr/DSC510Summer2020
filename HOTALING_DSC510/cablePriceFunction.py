@@ -1,4 +1,4 @@
-# Programming Assignment 3.1
+# Programming Assignment 4.1
 # #Michael Hotaling
 # This program will: 1) Welcome the user 2) Retrieve the company name
 # from the user 3) Retrieve the number of feet of fiber optic cable to be installed from the user 4) Calculate the
